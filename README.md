@@ -57,7 +57,7 @@ Suites Functionality
         "description": "Suite made for other players"
     }
                   
-**Delete Campsite by Campsite ID**
+**Delete Suite by Suite ID**
 
 -url: http://localhost:5050/displaysuites/suites?id=?
 
@@ -100,7 +100,7 @@ Weeks Functionality
  
  -RequestBody:
  
-   {
+ {
         "week": 18,
         "date": "January 10th",
         "opponent": "Scooby Doobers"
