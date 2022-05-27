@@ -82,7 +82,7 @@ Weeks Functionality
 
 -RequestBody:
 
-   {
+    {
         "week": 18,
         "date": "January 9th",
         "opponent": "Washington Commanders"
@@ -100,7 +100,7 @@ Weeks Functionality
  
  -RequestBody:
  
- {
+    {
         "week": 18,
         "date": "January 10th",
         "opponent": "Scooby Doobers"
